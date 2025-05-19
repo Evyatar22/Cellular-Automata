@@ -1,2 +1,2 @@
-# Langtons-ant-main
+#  Cellular Automata Playground in Unity
 
